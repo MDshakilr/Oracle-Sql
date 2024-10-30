@@ -1,0 +1,14 @@
+1.Number
+2.CHAR
+  char
+  varchar 2
+  varchar
+  ncharvarchar2
+  nvarchar2
+3.LONG
+4.DATE
+5.RAW
+  BLOB
+  CLOB
+  NCLOB
+6.ROWID

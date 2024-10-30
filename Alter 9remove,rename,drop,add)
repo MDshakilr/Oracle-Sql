@@ -1,0 +1,5 @@
+desc Employee;
+Alter table Employee add emp_id number(10);
+Alter table Employee modify emp_id varchar2(20);
+Alter table Employee rename  column emp_id to employee_id;
+Alter table Employee drop column EMPLOYEE_ID;

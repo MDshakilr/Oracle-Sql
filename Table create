@@ -1,1 +1,10 @@
+desc Employee
 
+Create Table Employee
+(
+Name varchar2(20),
+Gender char(30),
+Salary number(10),
+DOB date
+);
+select * from Employee;
